@@ -47,7 +47,8 @@ Script SQL:
 Script SQL:
 [SQL](Produtos%20(9)%202023-09-25.sql)
 
-## SQL na íntegra.
+
+## SQL da atividade na íntegra.
 SQL: 
 [SQL](Produtos%202023-09-25.sql)
 
