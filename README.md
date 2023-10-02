@@ -22,3 +22,32 @@ Script SQL:
 
 Script SQL:
 [SQL](Produtos%20(5)%202023-09-25.sql)
+
+## Selecionando a média dos preços e total em estoque dos produtos.
+![Média preços e total em estoque](6.png)
+
+Script SQL:
+[SQL](Produtos%20(6)%202023-09-25.sql)
+
+## Selecionando o nome, marca e quantidade em estoque do produto mais caro.
+![Selecione nome, marca e quantidade do produto mais caro](7.png)
+
+Script SQL:
+[SQL](Produtos%20(7)%202023-09-25.sql)
+
+## Selecionando os produtos com preço acima da média.
+![Acima da média](8.png)
+
+Script SQL:
+[SQL](Produtos%20(8)%202023-09-25.sql)
+
+## Selecione a quantidade de produtos de cada nacionalidade.
+![Quantidade de produtos](8.png)
+
+Script SQL:
+[SQL](Produtos%20(9)%202023-09-25.sql)
+
+
+
+
+
