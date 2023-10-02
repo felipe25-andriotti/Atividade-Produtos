@@ -43,6 +43,7 @@ Script SQL:
 
 ## 8.Selecione a quantidade de produtos de cada nacionalidade.
 
+![QTD de Produtos por Nacionalidade](9.png)
 
 Script SQL:
 [SQL](Produtos%20(9)%202023-09-25.sql)
