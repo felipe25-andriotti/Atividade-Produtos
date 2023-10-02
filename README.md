@@ -42,10 +42,14 @@ Script SQL:
 [SQL](Produtos%20(8)%202023-09-25.sql)
 
 ## Selecione a quantidade de produtos de cada nacionalidade.
-![Quantidade de produtos](8.png)
+
 
 Script SQL:
 [SQL](Produtos%20(9)%202023-09-25.sql)
+
+## SQL na íntegra.
+SQL: 
+[SQL](Produtos%202023-09-25.sql)
 
 
 
