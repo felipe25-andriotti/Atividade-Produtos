@@ -5,3 +5,6 @@
 
 ## Selecionando a média dos preços dos produtos em 2 grupos: perecíveis e não perecíveis;
 ![Médio  - perecíveis e não perecíveis](4.png)
+
+Script SQL:
+[SQL](Produtos%20(4)%202023-09-25.sql)
